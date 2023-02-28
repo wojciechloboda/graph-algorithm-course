@@ -11,3 +11,5 @@ lab3 - min-cut problem (Ford-Fulkerson method).
 lab4 - min-cut problem (Stoer-Wagner algorithm).
 
 lab5, (lab 6) - chordal graphs, lex-bfs, vertex-coloring, finding max clique and vertex cover.
+
+proj - implementation of algorithm for finding min-cost max-flow for a alorithmic problem.
